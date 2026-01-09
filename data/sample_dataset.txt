@@ -1,0 +1,21 @@
+The story begins in the small town of Devgarh, where a curious boy named Arjun lived near the riverbank.
+He loved solving puzzles, asking questions, and understanding how the world worked.
+One evening, he noticed strange symbols drawn on the sand, which turned out to be a coded map.
+
+Arjun and his best friend Meera decoded the symbols and followed the map to the abandoned hill fort of Kalinjar.
+Inside the fort, they found a locked stone door with a puzzle:
+"Only truth opens the path. The sum of the prime stars guides the key."
+
+They observed 8 stars and mapped them to the first 8 prime numbers: 2, 3, 5, 7, 11, 13, 17, 19.
+They calculated the sum → 77.
+Arjun entered 77 into the stone lock and the door opened.
+
+A hidden AI reasoning orb appeared with a message:
+"If you reached here, you reason wisely. Build systems that think, not just speak."
+
+Arjun said: "AI should read long stories, remember them, find evidence, apply logic, and answer wisely."
+Meera agreed and they decided to use the orb for helping people logically.
+
+They returned to Devgarh by sunrise, carrying knowledge and logic as the real treasure.
+
+
