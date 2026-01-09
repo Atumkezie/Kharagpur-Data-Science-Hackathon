@@ -1,0 +1,43 @@
+The story begins in the small town of Devgarh, where a curious boy named Arjun lived near the riverbank. 
+He loved solving puzzles, asking questions, and understanding how the world worked. 
+One evening, while returning from school, he noticed strange patterns drawn on the wet sand—symbols he had never seen before.
+
+Arjun called his best friend Meera, who was equally intelligent and loved decoding hidden messages. 
+They spent hours studying the symbols, comparing them to ancient scripts, and finally realized that it was a coded map.
+
+The map pointed toward the abandoned hill fort of Kalinjar, a place locals feared due to mysterious legends. 
+But Arjun and Meera believed in logic, not fear. 
+They packed a notebook, torch, rope, and Meera also carried her self-built compass device.
+
+At midnight, they began the climb. 
+The path was steep, covered with vines, and filled with old carvings on the stones. 
+Arjun kept taking notes and found that the carvings were aligned mathematically with the stars above.
+
+Inside the fort, they found a locked stone door with a number puzzle engraved:
+"Only truth opens the path. The sum of the prime stars guides the key."
+
+Meera whispered, "Prime stars matlab? Ho sakta hai prime numbers linked to stars positions!"  
+Arjun agreed and quickly listed the first few primes: 2, 3, 5, 7, 11, 13, 17, 19…
+
+They observed 8 stars forming a visible pattern from the fort window. 
+Mapping them to the prime list, they calculated the sum → **77**.  
+Arjun entered 77 into the stone lock… and the door opened.
+
+A hidden library appeared, filled with scrolls, machines, and a holographic message:
+"If you reached here, you reason wisely. Build systems that think, not just speak."
+
+They found a mechanical AI orb that activated when spoken to. 
+Arjun asked, "Knowledge ka purpose kya hai?"  
+Orb replied, "To reason, retrieve truth, and generate wisely."
+
+Meera asked, "Hum iska use logo ki help me kar sakte hain?"  
+Orb: "Yes, if logic remains above all."
+
+They realized the orb was not magic — it was a reasoning engine trained on long context data, retrieval memory, and generative logic — exactly like the system they wanted to build for the hackathon.
+
+By sunrise, they carried the orb out of the fort. 
+But the real treasure was not the library, it was the final lesson they wrote in their notebook:
+
+"AI should read long stories, remember them, find evidence, apply logic, and answer wisely."
+
+They walked back to Devgarh, ready to build the next generation of intelligent systems.
